@@ -4,6 +4,8 @@ This project contains the source code for the work: **DVCAE: Semi-Supervised Dua
 
 **Authors**: Jiaxing Shang, Xiaoquan Li, Xueqi Jia, Ruiyuan Li, Fei Hao, Geyong Min
 
+Please kindly give us a star if you find this code helpful.
+
 ## Table of Contents
 
 - gene_cas.py: preprocessing procedure to generate cascade graphs and global interaction graph
