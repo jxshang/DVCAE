@@ -4,9 +4,9 @@ This project contains the source code for the work: **DVCAE: Semi-Supervised Dua
 
 **Authors**: Jiaxing Shang, Xueqi Jia, Xiaoquan Li, Fei Hao, Ruiyuan Li, Geyong Min
 
-**Citation**: J. Shang, X. Jia, X. Li, F. Hao, R. Li and G. Min, "DVCAE: Semi-Supervised Dual Variational Cascade Autoencoders for Information Popularity Prediction," in IEEE Transactions on Knowledge and Data Engineering, vol. 37, no. 10, pp. 5838-5851, Oct. 2025, doi: 10.1109/TKDE.2025.3591395.
+**Reference**: J. Shang, X. Jia, X. Li, F. Hao, R. Li and G. Min, "DVCAE: Semi-Supervised Dual Variational Cascade Autoencoders for Information Popularity Prediction," in IEEE Transactions on Knowledge and Data Engineering, vol. 37, no. 10, pp. 5838-5851, Oct. 2025, doi: 10.1109/TKDE.2025.3591395.
 
-Please kindly give us a star if you find this code helpful.
+Please kindly cite the above reference and give us a star if you find this code helpful.
 
 ## Table of Contents
 
